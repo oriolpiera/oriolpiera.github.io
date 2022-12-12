@@ -10,7 +10,7 @@ title: Hi there!
 
 
 ### Contact me!
-* GitHub: <a href="https://github.com/oriolpiera" target="_blank">https://github.com/oriolpiera</a>
-* Twitter: <a href="https://twitter.com/cortsenc" target="_blank">https://twitter.com/cortsenc</a>
-* Mastodon: <a rel="me" href="https://mastodont.cat/@cortsenc">https://mastodont.cat/@cortsenc</a>
-* LinkedIn: <a href="https://www.linkedin.com/in/oriol-piera" target="_blank">https://www.linkedin.com/in/oriol-piera</a>
+*  <a href="https://github.com/oriolpiera" target="_blank">GitHub</a>
+*  <a rel="me" href="https://mastodont.cat/@cortsenc">Mastodon</a>
+*  <a href="https://pixelfed.social/i/web/profile/500356368504909759">Pixelfed</a>
+*  <a href="https://www.linkedin.com/in/oriol-piera" target="_blank">LinkedIn</a>
