@@ -11,6 +11,6 @@ title: Hi there!
 
 ### Contact me!
 *  <a href="https://github.com/oriolpiera" target="_blank">GitHub</a>
-*  <a rel="me" href="https://mastodont.cat/@cortsenc">Mastodon</a>
+*  <a rel="me" href="https://mastodon.economiasocial.org/@cortsenc">Mastodon</a>
 *  <a href="https://pixelfed.social/i/web/profile/500356368504909759">Pixelfed</a>
 *  <a href="https://www.linkedin.com/in/oriol-piera" target="_blank">LinkedIn</a>
